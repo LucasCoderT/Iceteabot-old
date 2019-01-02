@@ -1,3 +1,10 @@
+*DEPRECIATED*
+I've decided to instead break apart a lot of these features into seperate smaller bots. Too many problems colliding when I have one giant bot with a million features.
+
+See Iceteabot2.0
+
+
+
 **Iceteabot**
 Current Version: `1.0.0` Oct 3rd, 2018
 ---
